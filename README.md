@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ludmilahl
-- 👀 I’m interested in  работа онлайн.
-- 🌱 I’m currently learning создавать сайты
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 
 <!---
 Ludmilahl/Ludmilahl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
